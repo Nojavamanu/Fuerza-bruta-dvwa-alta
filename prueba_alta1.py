@@ -31,7 +31,7 @@ while password_encontrada==False:
 
 
     print(url)
-    peticion=sesion.get(url)
+    #peticion=sesion.get(url)
     print(peticion.text)
 
 
