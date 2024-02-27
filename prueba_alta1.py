@@ -10,8 +10,6 @@ cookie={"PHPSESSID":"ai7b48dmske0qd3d29986da822","security":"high"}
 
 lista_passwords=["admin","password","manager","letmein","cisco","default","root","apc","pass","security","user","system","sys"]
 
-sesion=requests.session()
-
 
 
 
